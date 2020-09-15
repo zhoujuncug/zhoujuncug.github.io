@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Zhou Jun's personal page
 
-You can use the [editor on GitHub](https://github.com/zhoujuncug/zhoujuncug.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Zhou Jun, a postgraduate student in School of Automataion, China University of Geosciences(CUG).
+Before that, I studied as an undergraduate in Huazhong Agricultural University from 2014 to 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests:
 
-### Markdown
+Computer Vision, Human-computer Interaction, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Publication Link:
+1. Accurate Hand Detection from Single-Color Images by Reconstructing Hand Appearances[paper1]https://www.mdpi.com/1424-8220/20/1/192/htm
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhoujuncug/zhoujuncug.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact:
+jchow@cug.edu.cn
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Last update: 2020-9-15**
