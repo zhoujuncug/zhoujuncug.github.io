@@ -8,7 +8,7 @@ Before that, I studied as an undergraduate in Huazhong Agricultural University f
 Computer Vision, Human-computer Interaction, etc.
 
 ### Publication Link:
-1. Accurate Hand Detection from Single-Color Images by Reconstructing Hand Appearances[paper1]https://www.mdpi.com/1424-8220/20/1/192/htm
+1. [Accurate Hand Detection from Single-Color Images by Reconstructing Hand Appearances](https://www.mdpi.com/1424-8220/20/1/192/htm)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhoujuncug/zhoujuncug.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
