@@ -1,4 +1,4 @@
-## Welcome to Zhou Jun's personal page
+## Welcome to Zhou Jun's Personal Page
 
 My name is Zhou Jun, a postgraduate student in [School of Automataion](http://au.cug.edu.cn/), China University of Geosciences(CUG).
 Before that, I studied as an undergraduate in Huazhong Agricultural University from 2014 to 2018.
